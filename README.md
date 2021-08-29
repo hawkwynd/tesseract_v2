@@ -41,6 +41,7 @@ This application displays the current Artist and title being played on your Shou
 
 # V2 Tesseract
 
+Updates - Artist wiki of members list added
 
 ## Installation / Configurations
 Requires MYSQL database. Set your Shoutcast configuration details and MYSQL credentials.
