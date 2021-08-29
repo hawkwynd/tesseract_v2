@@ -59,11 +59,11 @@ from the data returned by Discogs API
 ## Installation / Configurations
 Requires MYSQL database. Set your Shoutcast configuration details and MYSQL credentials.
 
-`mysql/stream_mysql.sql` 
+`stream_mysql.sql` 
  
  Import the `stream_mysql.sql` file into your database.
 
-Set your Discogs Developer Api Key/Secret
+Set your Discogs Developer Api Key/Secret variables in `js/tessa2.js`
 
 `js/tessa2.js`
 ```
@@ -98,5 +98,7 @@ define('MYSQL_HOST', 'localhost'); // your mysql hostname
 
 Feel free to create an issue if you're experiencing one, and I'll make an honest effort to help you.
 
-Peace, Love & Joy!
+Peace, Love & Joy and happy broadcasting!
+
 Hawkwynd Radio
+Scott Fleming - author and owner of Hawkwynd Radio www.hawkwynd.com
