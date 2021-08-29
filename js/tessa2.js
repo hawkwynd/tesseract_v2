@@ -2,7 +2,7 @@
 
 $(document).ready(function () {
 
-    console.log('Tesseract is listening. And now.')
+    console.log('Tesseract is listening.')
 
     // when the stats modal closes, clear nerdly content
     $('#statsModal').on('hidden.bs.modal', function(){
