@@ -43,6 +43,13 @@ This application displays the current Artist and title being played on your Shou
 ![op](/docs/img/readme3.png)
 
 
+## New Wiki modal for artist members
+Each member of the group will display a link which opens a modal dialog with details
+obtained through Discogs artist data.
+
+![op](/docs/img/snapshot-artist-links.png)
+
+
 ## Installation / Configurations
 Requires MYSQL database. Set your Shoutcast configuration details and MYSQL credentials.
 
