@@ -75,6 +75,7 @@ var auth = {
 };
 ```
 
+
 `include/config.inc.php` 
 
  Make your configuration changes in this file or shit wont do diddly squat.  
