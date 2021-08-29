@@ -49,6 +49,12 @@ obtained through Discogs artist data.
 
 ![op](/docs/img/snapshot-artist-links.png)
 
+Clicking on the link will display a modal with the information and image of the artist (if available)
+from the data returned by Discogs API
+
+![op](/docs/img/artist-member-modal.png)
+
+
 
 ## Installation / Configurations
 Requires MYSQL database. Set your Shoutcast configuration details and MYSQL credentials.
