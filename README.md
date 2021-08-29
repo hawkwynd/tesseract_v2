@@ -39,6 +39,8 @@ This application displays the current Artist and title being played on your Shou
 
 ![op](/docs/img/readme3.png)
 
+# V2 Tesseract
+
 
 ## Installation / Configurations
 Requires MYSQL database. Set your Shoutcast configuration details and MYSQL credentials.
