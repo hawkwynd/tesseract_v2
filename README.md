@@ -1,4 +1,7 @@
-# Tesseract 
+# V2 Tesseract
+
+Updates - Artist wiki of members list added
+
 ## A Shoutcast Stream Content Application
 This is the project of Hawkwynd Radio's web front end, which is a labor of love in the search for a better display of metadata/content while a song is being played on the Shoutcast Server. My love of music, and running my own station started with a idea, and has grown to this point. It is open source, and constantly being improved/updated. Soley for personal use, I make no warranties or provide any assurance this will work on your system. 
 
@@ -39,9 +42,6 @@ This application displays the current Artist and title being played on your Shou
 
 ![op](/docs/img/readme3.png)
 
-# V2 Tesseract
-
-Updates - Artist wiki of members list added
 
 ## Installation / Configurations
 Requires MYSQL database. Set your Shoutcast configuration details and MYSQL credentials.
