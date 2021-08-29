@@ -1,7 +1,5 @@
 <?php
-
 require_once('include/config.inc.php');
-header('Access-Control-Allow-Origin: *');
 
 $rnd = substr(md5(uniqid(mt_rand(), true)), 0, 8);
 
@@ -16,7 +14,6 @@ $rnd = substr(md5(uniqid(mt_rand(), true)), 0, 8);
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
     
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
-    <script src="https://kit.fontawesome.com/b684508b7c.js" crossorigin="anonymous"></script>    
     <link href="css/sassy.css?rnd=<?=$rnd;?>" rel="stylesheet" type="text/css"/>
 
     <!-- bootstrap style -->

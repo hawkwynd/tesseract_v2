@@ -1,1 +1,0 @@
-# a readme file in docs/img
