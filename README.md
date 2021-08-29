@@ -94,9 +94,6 @@ define('MYSQL_DATABASE', 'mydatabaseName'); // your mysql database
 define('MYSQL_HOST', 'localhost'); // your mysql hostname
 ```
 
-## TODO and future plans
-- Teseract to first check for local MYSQL results before making Discogs API calls and use that result instead. 
-
 Feel free to create an issue if you're experiencing one, and I'll make an honest effort to help you.
 
 Peace, Love & Joy and happy broadcasting!
